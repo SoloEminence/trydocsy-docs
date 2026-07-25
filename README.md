@@ -12,16 +12,13 @@ Welcome to the official public documentation and community repository for **[Try
 
 ---
 
-## 🎥 Product Promo & Video Walkthrough
+## 🎥 Product Demo Walkthrough
 
-<!-- Autoplay Muted Loop Video Player (Browser Autoplay Compliant) -->
-<video src="https://raw.githubusercontent.com/SoloEminence/TryDocsy/main/docs/trydocsyready.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  Your browser does not support the video tag.
-</video>
+![TryDocsy Product Demo Preview](docs/trydocsyready.gif)
 
-[![Watch TryDocsy Video Demo](https://trydocsy.com/og-image.png)](https://x.com/trydocsy/status/2080952198796845344)
+[![Watch Full HD Video with Audio on X (Twitter)](https://img.shields.io/badge/Watch_Full_Video_with_Sound-on_X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/trydocsy/status/2080952198796845344)
 
-> ▶️ **[Click here to watch the full TryDocsy Video Demo on X (Twitter)](https://x.com/trydocsy/status/2080952198796845344)**
+> 🔊 **[Click here to watch the full HD video with audio on X (Twitter)](https://x.com/trydocsy/status/2080952198796845344)**
 
 ---
 
