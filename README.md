@@ -12,7 +12,7 @@ Welcome to the official public documentation and community repository for **[Try
 
 ---
 
-## 🎥 Product Demo & Video Walkthrough
+## 🎥 Product Promo & Video Walkthrough
 
 <!-- Autoplay Muted Loop Video Player (Browser Autoplay Compliant) -->
 <video src="https://raw.githubusercontent.com/SoloEminence/TryDocsy/main/docs/trydocsyready.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
